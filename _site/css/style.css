@@ -1,0 +1,21 @@
+@import url(http://fonts.googleapis.com/css?family=Anonymous+Pro);
+
+
+
+.header
+  h1 {
+  font-family: Anonymous Pro; mono;
+  font-size: 4em;
+  display: block;
+  -webkit-margin-before: 0.67em;
+  -webkit-margin-after: 0.67em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  font-weight: bold;
+}
+
+
+.terminal {
+  font-family: Anonymous Pro; mono;
+  font-size: 10em;
+}
